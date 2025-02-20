@@ -8,6 +8,7 @@ int main() {
     std::cout << "Summ: " << add(x, y) << "\n";
     std::cout << "Subst: " << subtract(x, y) << "\n";
     std::cout << "Main was changed";
+    std::cout << "Mult: " << multiplication(x, y);
 
     return 0;
 }
